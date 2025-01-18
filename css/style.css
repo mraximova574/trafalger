@@ -292,5 +292,12 @@ footer{
  .virtual-text{
     text-align: center;
  }
- 
+ .img1{
+    width: 100px;
+   display: none;
+   
+ }
+ .img1{
+    display: none;
+ }
 }
